@@ -34,7 +34,9 @@ https://docs.seldon.io/_/downloads/alibi-detect/en/v0.5.1/pdf/
 
 If you are interested in an introduction to auto-encoders, head over to this [article](https://hackernoon.com/latent-space-visualization-deep-learning-bits-2-bd09a46920df). If a more technical breakdown is what you are looking for, check out this [blog post](https://lilianweng.github.io/posts/2018-08-12-vae/), from which the below image is sourced. It shows how an auto-encoder for MNIST images works, but the idea is still the same. 
 
-<img src="/lasige/Pictures/autoencoder.png" alt="Hifh-level illustrations of an autoencoder" title="Autoencoder">
+<img width="1035" alt="denoising-autoencoder-architecture" src="https://user-images.githubusercontent.com/73148658/219651610-c0357396-a057-4102-a585-361a99d1906d.png">
+
+
 
 
 
